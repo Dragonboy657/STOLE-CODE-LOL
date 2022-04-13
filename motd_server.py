@@ -2,7 +2,7 @@
 import socket
 import random
 
-message = ""
+message = "penis"
 
 HOST = ''
 PORT = 17
