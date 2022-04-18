@@ -2,10 +2,10 @@
 import socket
 import random
 
-message = "penis"
+message = "Wow I don't know if this will work because I stole it all."
 
 HOST = ''
-PORT = 17
+PORT = 69
 
 print("MOTD server v0.1")
 
