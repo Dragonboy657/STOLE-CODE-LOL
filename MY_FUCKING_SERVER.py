@@ -1,4 +1,4 @@
-#message of the day server
+#Stolen code
 import socket
 import random
 
